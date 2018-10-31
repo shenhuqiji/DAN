@@ -67,4 +67,4 @@ def test(filename):
             visualize_mask(resize_pred_result)
 
 if __name__ == "__main__":
-    test(r'F:\Res-DenseNetSegmentationV2.0\test\000001.tif')
+    test('F:/test/1.tif')
