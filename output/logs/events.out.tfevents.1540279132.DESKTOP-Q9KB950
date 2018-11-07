@@ -1,40 +1,0 @@
-       ?K"	  @u趄諥
-brain.Event:2犩縐傛!     机
-	?^u趄諥"籼?
-p
-image_inputPlaceholder*
-dtype0*(
-_output_shapes
-:??*
-shape:??
-q
-labels_inputPlaceholder*
-dtype0*(
-_output_shapes
-:??*
-shape:??
-P
-PlaceholderPlaceholder*
-dtype0
-*
-_output_shapes
-:*
-shape:
-R
-
-learning_ratePlaceholder*
-dtype0*
-_output_shapes
-:*
-shape:
-?
-0conv0/weights/Initializer/truncated_normal/shapeConst*
-dtype0*%
-valueB"            *
-_output_shapes
-:* 
-_class
-loc:@conv0/weights
-?
-/conv0/weights/Initializer/truncated_normal/meanConst*
-dtype0*
