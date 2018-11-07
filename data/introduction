@@ -1,0 +1,4 @@
+We evaluated the proposed method on the ISPRS 2D semantic labeling contest (Potsdam), which is an open benchmark dataset. This dataset contains 38 very high-resolution true 
+orthophoto (TOP) tiles extracted from a large TOP mosaic. ISPRS only provides 24 labeled images for training, while the remaining 14 tiles are unreleased. In this study, 
+we randomly used five of the labeled images(mainly contains top_potsdam_3_11,top_potsdam_4_11,top_potsdam_7_7,top_potsdam_7_11 and top_potsdam_7_12) as the validation set 
+and the remaining labeled images as the training models.
