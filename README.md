@@ -3,7 +3,7 @@
 ## Recommend improved code: https://github.com/shenhuqiji/DAN. If useful to you, please star to support my work. Thanks. 
 
 ## Citing
-If you find R-DFPN useful in your research, please consider citing:
+If you find DAN useful in your research, please consider citing:
     {
         Author = {Hui Yang Penghai Wu*, Xuedong Yao, Yanlan Wu*, Biao Wang and Yongyang Xu},
         Title = {{DAN}: Building Extraction in Very High Resolution Remote Sensing Imagery by Dense-Attention Networks},
