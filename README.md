@@ -1,6 +1,6 @@
 # DAN: A new architecture of semantic segmentation called Dense-Attention Networks.
 
-## Recommend improved code: https://github.com/shenhuqiji/DAN. If useful to you, please star to support my work. Thanks. 
+## Recommend improved code: https://github.com/shenhuqiji/DAN. If useful to you, please start to support my work. Thanks. 
 
 ## Citing
 If you find DAN useful in your research, please consider citing:
