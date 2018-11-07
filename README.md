@@ -20,6 +20,5 @@ Windows + python3.5 + tensorflow-GPU 1.70 + cv2  +  GTX 1080 Ti
   ``` 
 ## eval
   ```Shell    
-  python eval.py(eval1.py)  
+  python demo.py
   ``` 
-## OUTPUT
