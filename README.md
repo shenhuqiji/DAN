@@ -4,8 +4,8 @@
 
 ## Citing
 If you find DAN useful in your research, please consider citing:
-    {
-        Author = {Hui Yang Penghai Wu*, Xuedong Yao, Yanlan Wu*, Biao Wang and Yongyang Xu},
+  @article{DAN:https://www.mdpi.com/2072-4292/10/11/1768/htm
+        Author = {Hui Yang Penghai Wu, Xuedong Yao, Yanlan Wu, Biao Wang and Yongyang Xu},
         Title = {{DAN}: Building Extraction in Very High Resolution Remote Sensing Imagery by Dense-Attention Networks},
         Journal = {Published in remote sensing},
         Year = {2018}
